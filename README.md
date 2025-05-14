@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/happyany-secure-command-executor-mcp-server-badge.png)](https://mseep.ai/app/happyany-secure-command-executor-mcp-server)
+
 # Secure Command Executor MCP Server
 
 A robust command execution MCP service with daily log rotation, designed to securely manage and execute system commands with safety checks and logging. And this README.md is written by DeepSeek V3.
